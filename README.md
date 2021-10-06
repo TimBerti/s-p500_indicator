@@ -1,1 +1,1 @@
-S&P 500 indicator
+The recommended use is not as a direct signal for trading, but as an indicator on how to allocate capital between bearish, neutral and bullish strategies.
