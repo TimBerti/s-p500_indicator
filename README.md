@@ -1,1 +1,1 @@
-"# s-p500_indicator" 
+S&P 500 indicator
